@@ -1,0 +1,34 @@
+*{
+    margin : 0px;
+    padding : 0px;
+}
+
+h1{
+    text-align:center;
+}
+
+.grid {
+    display:flex;
+    flex-flow:row wrap;
+    width: 620px;
+    height :50px;
+    border: 1px solid black;
+    margin:100px auto;
+}
+.grid div{
+    width:60px;
+    height:inherit;
+    border: 1px solid black;
+    text-align:center;
+    font-weight:700;
+    font-size:x-large
+   
+    
+}
+
+
+    .excahange{
+        background-color:red;
+    }
+
+
